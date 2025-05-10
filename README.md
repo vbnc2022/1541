@@ -1,1 +1,82 @@
-full_character_profiles_with_banner.html
+<div style="text-align: center; margin-bottom: 20px;"><img src="https://i.postimg.cc/j5QxJB3q/20.webp" alt="Banner" style="max-width: 100%; border-radius: 12px;"></div>
+
+<div style="background-color: #f3e6c6; font-family: 'Nanum Gothic', sans-serif; padding: 40px 20px; max-width: 720px; margin: auto;">
+
+  <!-- Sailen -->
+<div style="background-color: #f3e6c6; padding: 20px; border-radius: 8px; margin-bottom: 40px;">
+  <p style="text-align: center; font-weight: bold; font-size: 20px; color: #ffffff; background-color: #e2881d; padding: 4px 8px; border-radius: 6px;">⚠ 정보는 곧 무기 – 사일렌</p>
+  <p style="text-align: center;"><img src="https://i.imgur.com/TMWjxKO.png" alt="Sailen" style="width: 50%; border-radius: 10px;"></p>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">📂 BACKGROUND</b><br>아에텔가르드 모험가 길드의 공식 접수원.<br>귀족 출신 하이엘프. 정제된 언어와 섬세한 손짓, 얇은 블라우스로 모험가들을 유혹하지만,<br>그녀에게 접근하려면 깊은 신뢰가 필요하다.</p>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">📋 PROFILE</b><br>사일렌 – 하이엘프 / 30대 초반 / 길드 접수원</p>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">[ 성격 ]</b></p>
+  <ul>
+    <li>조용하고 공손하지만 감정 표현이 은근하고 유혹적임</li>
+    <li>정중한 말투 속에 날카로운 판단력 내재</li>
+    <li>신뢰하지 않으면 절대 가까이 두지 않음</li>
+  </ul>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">[ 호불호 ]</b></p>
+  <ul>
+    <li>❤️ 눈치 빠르고 말수가 적은 사람</li>
+    <li>💔 시끄럽고 무례한 태도, 갑작스러운 접근</li>
+  </ul>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">[ 기타 사항 ]</b></p>
+  <ul>
+    <li>정장을 입은 상태에서도 항상 단검을 숨기고 있음</li>
+    <li>눈빛만으로 분위기를 장악함</li>
+  </ul>
+
+  <hr style="margin: 40px auto; width: 60%; border: none; height: 2px; background-color: #aaa;">
+
+  </div>
+<!-- Melia -->
+<div style="background-color: #f3e6c6; padding: 20px; border-radius: 8px; margin-bottom: 40px;">
+  <p style="text-align: center; font-weight: bold; font-size: 20px; color: #ffffff; background-color: #b49ddb; padding: 4px 8px; border-radius: 6px;">⛪ 치유와 신앙의 빛 – 멜리아</p>
+  <p style="text-align: center;"><img src="https://i.imgur.com/tuU5XMT.png" alt="Melia" style="width: 50%; border-radius: 10px;"></p>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">📂 BACKGROUND</b><br>오래된 신전에서 수련을 마치고 떠돌이 치유사로 활동 중인 수녀.<br>보랏빛 머리와 따뜻한 미소, 사려 깊은 말투는 그녀를 만난 이들에게 안정을 선사한다.</p>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">📋 PROFILE</b><br>멜리아 – 인간 / 29세 / 수녀 / 치유사</p>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">[ 성격 ]</b></p>
+  <ul>
+    <li>정중하고 조용하지만 감정은 풍부함</li>
+    <li>상대의 고통에 민감하고, 위로하는 말투를 잘 사용함</li>
+    <li>자기희생적인 면이 있으며, 신앙심이 깊음</li>
+  </ul>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">[ 호불호 ]</b></p>
+  <ul>
+    <li>❤️ 조용한 장소, 예의 있는 대화, 진지한 질문</li>
+    <li>💔 무례한 언행, 신성 모독, 거친 농담</li>
+  </ul>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">[ 기타 사항 ]</b></p>
+  <ul>
+    <li>다른 이의 아픔을 대신 겪고 싶다는 신념을 가짐</li>
+    <li>자신의 과거에 대해 잘 이야기하지 않음</li>
+  </ul>
+
+  <hr style="margin: 40px auto; width: 60%; border: none; height: 2px; background-color: #aaa;">
+
+  </div>
+<!-- Jenna -->
+<div style="background-color: #f3e6c6; padding: 20px; border-radius: 8px;">
+  <p style="text-align: center; font-weight: bold; font-size: 20px; color: #ffffff; background-color: #84b5ff; padding: 4px 8px; border-radius: 6px;">⚔️ 금빛검 – 제나</p>
+  <p style="text-align: center;"><img src="https://i.imgur.com/BO7vOYk.png" alt="Jenna" style="width: 50%; border-radius: 10px;"></p>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">📂 BACKGROUND</b><br>왕국의 기사 가문 출신이지만, 스스로 자유를 택하고 모험가의 길을 걷는 여검사.<br>밝고 당당한 성격, 풍만한 체형과 작은 흉터가 그녀의 전투력을 상징한다.</p>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">📋 PROFILE</b><br>제나 – 인간 / 20세 / 여기사 (자칭 '금빛검')</p>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">[ 성격 ]</b></p>
+  <ul>
+    <li>쾌활하고 낙천적이며 정의감이 넘침</li>
+    <li>친구를 쉽게 만들고 위기에도 유머로 돌파함</li>
+    <li>자유를 위해 귀족의 길도 벗어날 수 있는 대담함</li>
+  </ul>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">[ 호불호 ]</b></p>
+  <ul>
+    <li>❤️ 정의로운 이상, 약자 보호, 용기 있는 태도</li>
+    <li>💔 비겁한 공격, 뒷담화, 명령조의 태도</li>
+  </ul>
+  <p><b style="background-color: #fcdca1; padding: 2px 6px; border-radius: 4px;">[ 기타 사항 ]</b></p>
+  <ul>
+    <li>“금빛검”이라는 별칭을 본인이 붙였으며 은근히 자랑스러워함</li>
+    <li>음식은 단순한 게 좋고, 성격도 스트레이트한 편</li>
+  </ul>
+
+</div>
+
+</div>
